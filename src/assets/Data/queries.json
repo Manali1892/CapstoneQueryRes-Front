@@ -1,0 +1,117 @@
+[
+    {
+      "id":1,
+      "queryTitle":"Nodejs & Express",
+      "assignedTo":"Sai Mohan",
+      "status":"Resolved",
+      "createdAt":"2022-3-31",
+      "history":[
+        {
+          "date":"2022-4-2",
+          "message":"please join the Google Meet",
+          "messageBy":"Sai Mohan"
+        },
+        {
+          "date":"2022-4-2",
+          "message":"okay sir",
+          "messageBy":"Manali"
+        }
+
+      ]
+    },
+    {
+        "id":2,
+        "queryTitle":"Programming Assessment",
+        "assignedTo":"Hitesh Kumar",
+        "status":"Resolved",
+        "createdAt":"2022-6-3",
+        "history":[
+          {
+            "date":"2022-6-4",
+            "message":"you submit that assessment beyond the time limit",
+            "messageBy":"Hitesh Kumar"
+          },
+          {
+            "date":"2022-6-4",
+            "message":"what next sir? Do they allow me for placement or not?",
+            "messageBy":"Manali"
+          },
+          {
+            "date":"2022-6-4",
+            "message":"Let's see. it's depend on coordinator",
+            "messageBy":"Hitesh Kumar"
+          },
+          {
+            "date":"2022-6-4",
+            "message":"Okay Sir, thank you",
+            "messageBy":"Manali"
+          }
+        ]
+       
+      },
+      {
+        "id":3,
+        "queryTitle":"Heroku Error",
+        "assignedTo":"Anish Agarwal",
+        "status":"Resolved",
+        "createdAt":"2022-6-29",
+        "history":[
+          {
+            "date":"2022-6-29",
+            "message":"Resolved query via phone",
+            "messageBy":"Anish Agarwal"
+          }
+        ]
+        
+      },
+      {
+        "id":4,
+        "queryTitle":"Class 36 Task",
+        "assignedTo":"Suman Gangopadhyay",
+        "status":"Resolved",
+        "createdAt":"2022-7-05"
+             
+      },
+      {
+        "id":5,
+        "queryTitle":"Capstone Project",
+        "assignedTo":"Vidya",
+        "status":"Pending",
+        "createdAt":"2022-8-23"
+      },
+      {
+        "id":6,
+        "queryTitle":"Hackathon 2",
+        "assignedTo":"Lakshman",
+        "status":"Pending",
+        "createdAt":"2022-5-28"
+      },
+      {
+        "id":7,
+        "queryTitle":"Dynamic HTML Elements",
+        "assignedTo":"Saravankumar p",
+        "status":"Resolved",
+        "createdAt":"2022-2-25"
+      },
+      {
+        "id":8,
+        "queryTitle":"Absence",
+        "assignedTo":"Rupan",
+        "status":"Resolved",
+        "createdAt":"2022-5-13"
+      },
+      {
+        "id":9,
+        "queryTitle":"Mathematics 73",
+        "assignedTo":"Shekhar",
+        "status":"Pending",
+        "createdAt":"2022-4-06"
+      },
+      {
+        "id":10,
+        "queryTitle":"Mongodb Task",
+        "assignedTo":"Sai Mohan",
+        "status":"Resolved",
+        "createdAt":"2022-6-23"
+      }
+]
